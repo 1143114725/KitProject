@@ -6,6 +6,16 @@
 
 ### 1. 基础功能工具类
 
+- [OSUtils](https://github.com/1143114725/KitProject/blob/main/doc/OSUtils.md) 是一个用于检测 Android 设备 ROM 类型的工具类，能够识别常见的国产 ROM（如 MIUI、EMUI、Flyme 等）以及部分国际品牌 ROM。
+
+- [DensityUtil](https://github.com/1143114725/KitProject/blob/main/doc/DensityUtil.md)  是一个用于像素分辨率转换的工具类，提供了多种与屏幕密度相关的转换方法，如 dp 到 px、px 到 dp、px 到 sp、sp 到 px 等，同时还提供了获取屏幕宽度、屏幕高度、设备密度、状态栏高度以及监听输入法弹出等功能。
+
+- [ArithmeticUtils](https://github.com/1143114725/KitProject/blob/main/doc/ArithmeticUtils.md)  是一个用于高精度数学运算的工具类，基于 `BigDecimal` 实现，提供了精确的加法、减法、乘法、除法、四舍五入、取余数和比较大小等操作。该工具类适用于需要高精度计算的场景，如金融计算、科学计算等。
+
+- [RouteManager](https://github.com/1143114725/KitProject/blob/main/doc/RouteManager.md)  是一个用于管理 Android 应用页面跳转的工具类。它封装了常见的页面跳转逻辑，并提供了携带参数、处理返回结果等功能。
+
+
+
 ## 项目优势
 
 ### 1. 高度可定制化
